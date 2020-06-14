@@ -18,7 +18,7 @@
     </a>
 </p>
 
-Journy.io is an open source, private cloud, Medium alternative from Hackers. It provides platform for publishing tech-related articles, post, and journals online.
+Journy.io is an open source, private cloud, Medium alternative from journalist. It provides platform for publishing articles, post, and journals online.
 
 It's written in Golang and React and runs as a single Linux binary with MySQL or PostgreSQL. Every month on the 16th a new compiled version is released under an MIT license.
 
